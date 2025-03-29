@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+Developer+student)](https://git.io/typing-svg)
 
-[![codewars](https://www.codewars.com/users/niliano/badges/small)](https://www.codewars.com/users/username) 
+[![codewars](https://www.codewars.com/users/niliano/badges/small)](https://www.codewars.com/users/niliano) 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
 
